@@ -10,6 +10,12 @@
 body {
     background-color: #4f6367;
     margin: 20px;
+    text-align: center;
+}
+
+body p {
+    font-size: 2rem;
+    margin: 25px;
 }
 
 .fundo {
@@ -48,6 +54,7 @@ body {
     padding-bottom: 250px;
 }
 
-footer {
+footer p {
+    font-size: 1.2rem;
     text-align: center;
 }
