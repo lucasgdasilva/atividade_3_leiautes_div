@@ -17,14 +17,14 @@ body {
     width: 660px;
     margin: 0 auto;
     margin-bottom: 50px;
-    padding: 1px;
+    padding: 2px;
 }
 
 .flex {
     display: flex;
 }
 
-.ciano {
+.bloco {
     background-color: #b8d8d8;
     padding: 75px;
     margin: 10px;
@@ -34,4 +34,16 @@ body {
 
 .alongar {
     padding-right: 300px;
+}
+
+.alongarMenos {
+    padding-right: 250px;
+}
+
+.esticar {
+    padding-bottom: 300px;
+}
+
+.esticarMenos {
+    padding-bottom: 250px;
 }
